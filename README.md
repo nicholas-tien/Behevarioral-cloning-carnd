@@ -13,10 +13,14 @@ At first I collected my own dataset.But the result is not good.Maybe my driving 
 Its result is good.
 
 ##Data aumentation
+ The training dataset came from the track 1.The track 2 is much darker than track.And track 2 has a lot of shadow.
+ To make the model more robust to environment impact and prevent overfitting,we have to do some data aumentation.
+ For example,use image flip to balance the left and right turnig image,use gamma corrction to adjuct the lightness.
 
 
 ##Model
-
+Here I use a nvidia-like model.[The nvidia paper is here](https://arxiv.org/abs/1604.07316).The model is as follows
+![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png)
 
 
 
