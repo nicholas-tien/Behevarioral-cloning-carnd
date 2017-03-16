@@ -22,8 +22,9 @@ Its result is good.
 Here I use a nvidia-like model.[The nvidia paper is here](https://arxiv.org/abs/1604.07316).The model is as follows
 ![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png)
 
-
-
-
+##result
+some driving capture images.
+![](https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track12.png?raw=true)     ![](https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track11.png?raw=true)
+![](https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track21.png?raw=true)     ![](https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track22.png?raw=true)
 
 
