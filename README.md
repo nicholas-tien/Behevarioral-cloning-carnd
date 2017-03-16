@@ -15,7 +15,7 @@ Its result is good.
 ##Data aumentation
  The training dataset came from the track 1.The track 2 is much darker than track.And track 2 has a lot of shadow.
  To make the model more robust to environment impact and prevent overfitting,we have to do some data aumentation.
- For example,use image flip to balance the left and right turnig image,use gamma corrction to adjuct the lightness.
+ For example,use image flip to balance the left and right turnig image,use hsv adjust or gamma corrction to change the lightness.
 
 
 ##Model
