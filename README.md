@@ -28,7 +28,7 @@ some driving capture images.
 
 track 1 | track 2
 ---|---
-<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track12.png?raw=true" width="100%" height="35%"> |<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track21.png?raw=true" width="100%" height="35%"> 
- <img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track11.png?raw=true" width="100%" height="35%">|<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track22.png?raw=true" width="100%" height="35%"> 
+<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track12.png?raw=true" width="100%" height="25%"> |<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track21.png?raw=true" width="100%" height="25%"> 
+ <img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track11.png?raw=true" width="100%" height="25%">|<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track22.png?raw=true" width="100%" height="25%"> 
 
 
