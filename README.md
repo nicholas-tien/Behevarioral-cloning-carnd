@@ -2,7 +2,7 @@
 Train a model to drive car like a human.This project is from udacity self-driving car project.The aim is to train a model
 that can drive a car like a human.It mainly use convolutional neural network to predict the steering angle.
 
-## Denpencies
+## Depencies
 - Keras
 - Opencv
 - sklearn
