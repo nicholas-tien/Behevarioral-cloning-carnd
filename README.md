@@ -25,9 +25,9 @@ Here I use a nvidia-like model.[The nvidia paper is here](https://arxiv.org/abs/
 ##result
 
 some driving capture images.
-
-|<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track12.png?raw=true" width="35%" height="35%"> |<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track11.png?raw=true" width="35%" height="35%">|
-
-|<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track21.png?raw=true" width="35%" height="35%">   |  <img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track22.png?raw=true" width="35%" height="35%"> |
+track 1 | track 2
+---|---
+<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track12.png?raw=true" width="35%" height="35%"> |<img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track21.png?raw=true" width="35%" height="35%"> 
+ <img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track11.png?raw=true" width="35%" height="35%">  |  <img src="https://github.com/nicholas-tien/Behevarioral-cloning-carnd/blob/master/image/track22.png?raw=true" width="35%" height="35%"> 
 
 
