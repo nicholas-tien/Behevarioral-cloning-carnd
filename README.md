@@ -12,7 +12,7 @@ We can use the dataset provided by udacity.Or we can collect our own dataset by 
 At first I collected my own dataset.But the result is not good.Maybe my driving skill is bad.So I use the datacity data.
 Its result is good.
 
-## Data aumentation
+## Data augumentation
 
 The training dataset came from the track 1.The track 2 is much darker than track.And track 2 has a lot of shadow.
 To make the model more robust to environment impact and prevent overfitting,we have to do some data aumentation.
