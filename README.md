@@ -24,8 +24,7 @@ Here I use a nvidia-like model.[The nvidia paper is here](https://arxiv.org/abs/
 ![](https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png)
 
 ## result
-
-some driving capture images.
+ driving images.
 
 track 1 | track 2
 ---|---
